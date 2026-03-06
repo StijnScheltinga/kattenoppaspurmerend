@@ -101,7 +101,7 @@ export default function Tarieven() {
 									"Dagelijks bezoek",
 									"Voeding en vers water",
 									"Schone kattenbak",
-									"Aandacht en spel",
+									"Een knuffel geven",
 									"Dagelijkse contact via Whatsapp",
 									"Eindschoonmaak",
 								].map((item, i) => (

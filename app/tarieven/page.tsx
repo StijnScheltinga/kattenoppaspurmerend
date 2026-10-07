@@ -57,13 +57,13 @@ export default function Tarieven() {
 											Kat verzorging aan huis tijdens uw vakantie per dag incl. weekend
 										</td>
 										<td className="px-6 py-5 text-center font-semibold text-foreground">
-											€17,00
+											€19,00
 										</td>
 										<td className="px-6 py-5 text-center font-semibold text-foreground">
-											€20,00
+											€23,00
 										</td>
 										<td className="px-6 py-5 text-center font-semibold text-foreground">
-											€22,00
+											€26,00
 										</td>
 									</tr>
 									{/* Row 2: Intake Conversation */}
@@ -72,7 +72,7 @@ export default function Tarieven() {
 											Kattenverzorging
 										</td>
 										<td className="px-6 py-5 text-center text-foreground">
-											Intake gesprek €20,00
+											Intake gesprek €22,00
 										</td>
 										<td className="px-6 py-5 text-center text-gray-500">
 											-
